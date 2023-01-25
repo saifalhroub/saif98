@@ -1,0 +1,30 @@
+body{
+  background-color: #E5E0FF;
+  text-align: center;
+width: 1440px;
+}
+.parent{
+  display: inline-block;
+  background-color: White;
+  width: 20%;
+  margin: auto;
+  border-radius: 16px;
+  height: 400px;
+  margin-top:75px;
+  padding: 10px 10px 20px 10px;
+}
+.p{
+  color: hsl(212, 45%, 89%);
+  font-size: 15px;
+}
+.p1{
+  color: hsl(218, 44%, 22%);
+  font-size:20px;
+  width: 240px;
+  margin: 20px auto;
+}
+.QR{
+  width: 90%;
+  margin: auto;
+  border-radius: 16px;
+}
